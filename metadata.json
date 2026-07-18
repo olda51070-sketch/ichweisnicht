@@ -1,0 +1,6 @@
+{
+  "name": "FaceCall Practice",
+  "description": "Conquer the fear of recording yourself in public by simulating a realistic video call interface while recording your actual video in the background.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
